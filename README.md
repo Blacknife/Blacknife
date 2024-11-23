@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats-ashy-pi-99.vercel.app/api?username=Blacknife&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=ambient_gradient)](https://github.com/Blacknife)
+
 <!--
 **Blacknife/Blacknife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
